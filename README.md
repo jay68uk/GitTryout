@@ -1,2 +1,2 @@
-# GitTryout
-git command try out
+# Git Tryout Readme
+Readme file for trying out different Git commands
